@@ -25,7 +25,7 @@ body {
 /* Tela de Login */
 
 .form__box {
-    max-width: 300px;
+    max-width: 450px;
     background: #a3ccf9;
     overflow: hidden;
     border-radius: 16px;
@@ -36,7 +36,7 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 32px 24px 24px;
+    padding: 35px 70px 25px;
     gap: 16px;
     text-align: center;
   }

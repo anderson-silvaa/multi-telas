@@ -10,4 +10,4 @@ Criar interfaces de um sistema de ordem de serviços.
 - [X] Criar estrutura inicial da tela de login
 - [X] Criar estrutura inicial da tela de iníco
 - [X] Estilizar tela de login
-- [] Estilizar tela de início
+- [X] Estilizar tela de início
